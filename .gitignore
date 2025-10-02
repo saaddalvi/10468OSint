@@ -1,5 +1,25 @@
 # Python
 __pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+osint_env/
+venv/
+
+# Environment files
+.env
+
+# Databases
+data/*.db
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+# Python
+__pycache__/
 *.pyc
 *.pyo
 *.pyd
